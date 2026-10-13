@@ -1,0 +1,160 @@
+[[Pumpkin]]
+arch = "aarch64"
+git-tree-sha1 = "96441b8ed25f7c9b2e8db72338cc5bf3dc5d6f14"
+os = "macos"
+
+    [[Pumpkin.download]]
+    sha256 = "8caa2d278109e780989113e9fbecdc171d1cb56bd23ba4d683707c637bec514d"
+    url = "https://github.com/JuliaBinaryWrappers/Pumpkin_jll.jl/releases/download/Pumpkin-v0.5.0+0/Pumpkin.v0.5.0.aarch64-apple-darwin.tar.gz"
+[[Pumpkin]]
+arch = "aarch64"
+git-tree-sha1 = "b3d3cfe3ec4eec7774b4e763d9aa61170fd6a707"
+libc = "glibc"
+os = "linux"
+
+    [[Pumpkin.download]]
+    sha256 = "2f199bce4643e39d83caf17d6f6e63b354be5cdc4d327208864c42313342d569"
+    url = "https://github.com/JuliaBinaryWrappers/Pumpkin_jll.jl/releases/download/Pumpkin-v0.5.0+0/Pumpkin.v0.5.0.aarch64-linux-gnu.tar.gz"
+[[Pumpkin]]
+arch = "aarch64"
+git-tree-sha1 = "71f455d01cfe48e8044b60621d86890d8ddff58f"
+libc = "musl"
+os = "linux"
+
+    [[Pumpkin.download]]
+    sha256 = "6203cce39c31d10dafb0cd89a53f752a728e00cf5e99006a70addf51b65c2f06"
+    url = "https://github.com/JuliaBinaryWrappers/Pumpkin_jll.jl/releases/download/Pumpkin-v0.5.0+0/Pumpkin.v0.5.0.aarch64-linux-musl.tar.gz"
+[[Pumpkin]]
+arch = "aarch64"
+git-tree-sha1 = "92e97e11318bc1c19cf7a134b412f59e2aa785ff"
+os = "freebsd"
+
+    [[Pumpkin.download]]
+    sha256 = "48117c52f12ebb9e30918d1302ac0d8c2bbb69e4bce32f93cd5bcc102071daff"
+    url = "https://github.com/JuliaBinaryWrappers/Pumpkin_jll.jl/releases/download/Pumpkin-v0.5.0+0/Pumpkin.v0.5.0.aarch64-unknown-freebsd.tar.gz"
+[[Pumpkin]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "4384a1063f8f662e681ce2708cbb7470f6030506"
+libc = "glibc"
+os = "linux"
+
+    [[Pumpkin.download]]
+    sha256 = "524bc8fa6f5085bd265666852c0c253a2d4bcab084533d1c2960525353e0e2a1"
+    url = "https://github.com/JuliaBinaryWrappers/Pumpkin_jll.jl/releases/download/Pumpkin-v0.5.0+0/Pumpkin.v0.5.0.armv6l-linux-gnueabihf.tar.gz"
+[[Pumpkin]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "f79b6fc0a7088f63b46a2ba30e57e09449febc5e"
+libc = "musl"
+os = "linux"
+
+    [[Pumpkin.download]]
+    sha256 = "837b074dc537b74b15e659d15ef24da5098412793fa740f6204a112440877ab7"
+    url = "https://github.com/JuliaBinaryWrappers/Pumpkin_jll.jl/releases/download/Pumpkin-v0.5.0+0/Pumpkin.v0.5.0.armv6l-linux-musleabihf.tar.gz"
+[[Pumpkin]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "2d4c52ebc0d38c6042e7faf08f92b4537af2d2f6"
+libc = "glibc"
+os = "linux"
+
+    [[Pumpkin.download]]
+    sha256 = "b3fd001a7aa70224a0e66dd1dc01b64904844452137b41896fecb239f6904fb4"
+    url = "https://github.com/JuliaBinaryWrappers/Pumpkin_jll.jl/releases/download/Pumpkin-v0.5.0+0/Pumpkin.v0.5.0.armv7l-linux-gnueabihf.tar.gz"
+[[Pumpkin]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "704563ad3020394ba090fd8bff82235e2359b6c3"
+libc = "musl"
+os = "linux"
+
+    [[Pumpkin.download]]
+    sha256 = "5979c06aa638dd95815bdeec4ff22d76a035270b0499873ba9a3bed371b188e3"
+    url = "https://github.com/JuliaBinaryWrappers/Pumpkin_jll.jl/releases/download/Pumpkin-v0.5.0+0/Pumpkin.v0.5.0.armv7l-linux-musleabihf.tar.gz"
+[[Pumpkin]]
+arch = "i686"
+git-tree-sha1 = "29015b1de5a1cfa82b8711606003f31dbb7165b8"
+libc = "glibc"
+os = "linux"
+
+    [[Pumpkin.download]]
+    sha256 = "f22ec6fb0bd6b0071984245a3f32d1086e0eff31d1021407dd07b2cd8438e1fb"
+    url = "https://github.com/JuliaBinaryWrappers/Pumpkin_jll.jl/releases/download/Pumpkin-v0.5.0+0/Pumpkin.v0.5.0.i686-linux-gnu.tar.gz"
+[[Pumpkin]]
+arch = "i686"
+git-tree-sha1 = "c460bb40d837a8bbee276a870f96da8c23d839be"
+libc = "musl"
+os = "linux"
+
+    [[Pumpkin.download]]
+    sha256 = "f5171b2148f538d45eecd73851379452a6f8f8bce62614622a4136fdeed3d6d3"
+    url = "https://github.com/JuliaBinaryWrappers/Pumpkin_jll.jl/releases/download/Pumpkin-v0.5.0+0/Pumpkin.v0.5.0.i686-linux-musl.tar.gz"
+[[Pumpkin]]
+arch = "i686"
+git-tree-sha1 = "629eee3b5c1dd7263357851c9e209d13904a384e"
+os = "windows"
+
+    [[Pumpkin.download]]
+    sha256 = "c42bac66716fa5d66b243357f8395139621d8fe96055f3855377b0a8f5cf7822"
+    url = "https://github.com/JuliaBinaryWrappers/Pumpkin_jll.jl/releases/download/Pumpkin-v0.5.0+0/Pumpkin.v0.5.0.i686-w64-mingw32.tar.gz"
+[[Pumpkin]]
+arch = "powerpc64le"
+git-tree-sha1 = "3dbe537f9cd954a4ce33bbca18a44f1a47f5885d"
+libc = "glibc"
+os = "linux"
+
+    [[Pumpkin.download]]
+    sha256 = "b70a68e2ba41ed372f6145caedf3358713d03b5a841a89671a94abe1300252f6"
+    url = "https://github.com/JuliaBinaryWrappers/Pumpkin_jll.jl/releases/download/Pumpkin-v0.5.0+0/Pumpkin.v0.5.0.powerpc64le-linux-gnu.tar.gz"
+[[Pumpkin]]
+arch = "riscv64"
+git-tree-sha1 = "d823abc469a6efa91c771497323a0a5210e3d01e"
+libc = "glibc"
+os = "linux"
+
+    [[Pumpkin.download]]
+    sha256 = "24d46bbedd4534dddd724455dd2466602bd13a423941a208fa9577083cf1debb"
+    url = "https://github.com/JuliaBinaryWrappers/Pumpkin_jll.jl/releases/download/Pumpkin-v0.5.0+0/Pumpkin.v0.5.0.riscv64-linux-gnu.tar.gz"
+[[Pumpkin]]
+arch = "x86_64"
+git-tree-sha1 = "f47fc0791bc843dfdd397c2794b992db44539420"
+os = "macos"
+
+    [[Pumpkin.download]]
+    sha256 = "762b0d9c38f7bc5556ffb65c3b9fa18e1b52070a13ea71d5ad173a723278d96f"
+    url = "https://github.com/JuliaBinaryWrappers/Pumpkin_jll.jl/releases/download/Pumpkin-v0.5.0+0/Pumpkin.v0.5.0.x86_64-apple-darwin.tar.gz"
+[[Pumpkin]]
+arch = "x86_64"
+git-tree-sha1 = "dd45df34fcd3a0eb0a60fa1c959ee109aff6c22d"
+libc = "glibc"
+os = "linux"
+
+    [[Pumpkin.download]]
+    sha256 = "a9fbcf3a628bb58af3289153da09d6418c24925ef369148a999cf74c8fac12cb"
+    url = "https://github.com/JuliaBinaryWrappers/Pumpkin_jll.jl/releases/download/Pumpkin-v0.5.0+0/Pumpkin.v0.5.0.x86_64-linux-gnu.tar.gz"
+[[Pumpkin]]
+arch = "x86_64"
+git-tree-sha1 = "d91ae3ae7fb09401f1c5faab5da42d8691961e7d"
+libc = "musl"
+os = "linux"
+
+    [[Pumpkin.download]]
+    sha256 = "20685be612039b8c31290d9f8dc192069d46f8afad39a0a2bd961548628ba203"
+    url = "https://github.com/JuliaBinaryWrappers/Pumpkin_jll.jl/releases/download/Pumpkin-v0.5.0+0/Pumpkin.v0.5.0.x86_64-linux-musl.tar.gz"
+[[Pumpkin]]
+arch = "x86_64"
+git-tree-sha1 = "e51c94ff58c3b1e9fe616993db49f2df1250cb20"
+os = "freebsd"
+
+    [[Pumpkin.download]]
+    sha256 = "a9f2e8cb4843906d2e04b2b0ad748c0a56acc3d44333a011410a91abe903ec33"
+    url = "https://github.com/JuliaBinaryWrappers/Pumpkin_jll.jl/releases/download/Pumpkin-v0.5.0+0/Pumpkin.v0.5.0.x86_64-unknown-freebsd.tar.gz"
+[[Pumpkin]]
+arch = "x86_64"
+git-tree-sha1 = "8b1f30c87973da438dc24846f9c80df101ed40e9"
+os = "windows"
+
+    [[Pumpkin.download]]
+    sha256 = "604823548dd6527038abf7bbe50183598eeb121e6cf9c3df7900654a95bac4f1"
+    url = "https://github.com/JuliaBinaryWrappers/Pumpkin_jll.jl/releases/download/Pumpkin-v0.5.0+0/Pumpkin.v0.5.0.x86_64-w64-mingw32.tar.gz"
